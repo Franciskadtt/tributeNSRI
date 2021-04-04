@@ -1,45 +1,90 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# freeCodeCamp Responsive Web Design Project 1: Tirbute to NSRI
 
-Welcome USER_NAME,
+![Desktop](assets/design/design-preview.png) 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+This is a solution to the [Responsive Web Design Project 1 on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). This project is one of 5 projects to complete my Responsive Web Design Certification.
 
-## Gitpod Reminders
+## Table of contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-`python3 -m http.server`
+## Overview
 
-A blue button should appear to click: *Make Public*,
+### The challenge
+- Build a Tribute Page. You can use HTML, JavaScript, and CSS to complete this project. 
+- I deceided to create a tribute page for the National Sea Rescue Institute (NSRI)
 
-Another blue button should appear to click: *Open Browser*.
+#### User Stories (Minimum tasks to be completed)
+1. My tribute page should have an element with a corresponding id="main", which contains all other elements.
+2. I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
+3. I should see a div element with a corresponding id="img-div".
+4. Within the img-div element, I should see an img element with a corresponding id="image".
+5. Within the img-div element, I should see an element with a corresponding id="img-caption" that contains textual content describing the image shown in img-div.
+6. I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.
+7. I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
+8. The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
+9. The img element should be centered within its parent element.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Screenshots
+#### Mobile
+- [Mobile image 1](assets/design/mobile-screenshot-1.png)
+- [Mobile image 2](assets/design/mobile-screenshot-2.png)
+#### Desktop
+- [Desktop image 1](assets/design/desktop-screenshot-1.png)
+- [Desktop image 2](assets/design/desktop-screenshot-2.png)
 
-A blue button should appear to click: *Make Public*,
+### Links
 
-Another blue button should appear to click: *Open Browser*.
+- [Repo](https://github.com/Franciskadtt/Profile-card-component)
+- [Live site](https://franciskadtt.github.io/Profile-card-component/.)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## My process
 
-## Updates Since The Instructional Video
+### UX Design
+1. Understand the goal (WHY) - Need to design & build website with certain parameters. 
+2. Define the audience (WHAT) - Person interested to see a tribute on someone/something/organisation/cause.
+3. Understand the context and customer needs (WHEN and WHERE) - It should be visual and factual
+4. List ideas (WHAT) 
+5. Prioritise and choose an idea - Tribute to NSRI
+6. Solve:
+    - Research
+    - Define 
+    - Design
+    - Build 
+    - Test
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+### Built with
+- HMTL
+- CSS 
+- Javascript
+- Bootstrap
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### What I learned
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- How to create svg waves with CSS
+- How to use gradients with CSS
+- Hidden Side navbar with Javascript
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Author
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+- Website - [Franciska Du Toit](https://franciskadutoit.com/)
+- Instagram - [@
+designed.byfranciska
+](https://www.instagram.com/designed.byfranciska/)
+- Github - [@franciskadtt](https://github.com/Franciskadtt)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+## Credit
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Content
+- [NSRI](https://www.nsri.org.za/)
+- [Wikipedia](https://en.wikipedia.org/wiki/National_Sea_Rescue_Institute)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+### Photos 
+- [SeaRescue Flickr](https://www.flickr.com/photos/searescue/)
