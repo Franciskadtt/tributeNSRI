@@ -1,3 +1,5 @@
+
+/*--------------------------------------------Body */
 body, html {
     height: 100%;
 }
@@ -6,10 +8,8 @@ body{
     font-family: 'Oswald', sans-serif;
 }
 
-main {
-    margin: 5% 10%;
-}
 
+/*--------------------------------------------Navbar */
 .sidenav {
     height: 100%;
     width: 0;
@@ -54,12 +54,9 @@ main {
     padding-left: 20px;
 }
 
-.wave-container {
-    position: relative;
-    background: white;
-    color: #FFF;
-    text-align: center;
-    overflow: hidden;
+/*--------------------------------------------About Section */
+main {
+    margin: 5% 10%;
 }
 
 header {
@@ -79,6 +76,13 @@ h1 {
     font-weight: 700;
 }
 
+svg {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+/*--------------------------------------------History Section */
 h2{
     margin-top: 50px;
 }
@@ -87,13 +91,6 @@ h2{
     color: #fafafa;
     text-align: center;
     font-size: 20px;
-}
-
-svg {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: auto;
 }
 
 section {
@@ -139,6 +136,7 @@ section {
     padding: 30px;
 }
 
+/*--------------------------------------------Link section */
 .end-p{
     text-align: center;
     font-size: 25px;
