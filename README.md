@@ -42,8 +42,8 @@ This is a solution to the [Responsive Web Design Project 1 on freeCodeCamp](http
 
 ### Links
 
-- [Repo](https://github.com/Franciskadtt/Profile-card-component)
-- [Live site](https://franciskadtt.github.io/Profile-card-component/.)
+- [Repo](https://github.com/Franciskadtt/tributeNSRI)
+- [Live site](https://franciskadtt.github.io/tributeNSRI/)
 
 ## My process
 
