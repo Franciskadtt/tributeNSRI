@@ -1,4 +1,4 @@
-# freeCodeCamp Responsive Web Design Project 1: Tirbute to NSRI
+# freeCodeCamp Responsive Web Design Project 1: Tribute to NSRI
 
 ![Desktop](assets/design/design-preview.png) 
 
