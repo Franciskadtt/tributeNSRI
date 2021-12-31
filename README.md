@@ -19,7 +19,7 @@ This is a solution to the [Responsive Web Design Project 1 on freeCodeCamp](http
 
 ### The challenge
 - Build a Tribute Page. You can use HTML, JavaScript, and CSS to complete this project. 
-- I deceided to create a tribute page for the National Sea Rescue Institute (NSRI)
+- I decided to create a tribute page for the National Sea Rescue Institute (NSRI)
 
 #### User Stories (Minimum tasks to be completed)
 1. My tribute page should have an element with a corresponding id="main", which contains all other elements.
